@@ -8,7 +8,7 @@
   "protocol_registered_at": "2026-09-02",
   "protocol_sha256": "763fd1c5487858ac580cd021b5c52abe35e4b04a0012b6a36516b19fba626b53",
   "benevente2_protocol_sha256": "d1f37a440f24421e0df32f304ee0683c6de04ed9417d0cb014a0bfc7309e80e4",
-  "through": "2026-10-09",
+  "through": "2026-10-13",
   "currency": "BRL",
   "initial_capital_brl": 100000.0,
   "price_basis": "fechamento_ajustado_fonte_publica_secundaria",
@@ -17,66 +17,66 @@
       "ticker": "VIVA3",
       "weight": 0.204,
       "start_adjusted_close": 32.25999832,
-      "last_adjusted_close": 29.45000076,
-      "total_return": -0.087104702567,
-      "portfolio_contribution": -0.017769359324,
-      "source_last_date": "2026-10-09"
+      "last_adjusted_close": 28.84000015,
+      "total_return": -0.106013587938,
+      "portfolio_contribution": -0.021626771939,
+      "source_last_date": "2026-10-13"
     },
     {
       "ticker": "CURY3",
       "weight": 0.17325,
       "start_adjusted_close": 29.99482155,
-      "last_adjusted_close": 34.52000046,
-      "total_return": 0.150865338605,
-      "portfolio_contribution": 0.026137419913,
-      "source_last_date": "2026-10-09"
+      "last_adjusted_close": 33.56999969,
+      "total_return": 0.119193179416,
+      "portfolio_contribution": 0.020650218334,
+      "source_last_date": "2026-10-13"
     },
     {
       "ticker": "CMIN3",
       "weight": 0.129244,
       "start_adjusted_close": 5.07303143,
-      "last_adjusted_close": 5.01000023,
-      "total_return": -0.012424759736,
-      "portfolio_contribution": -0.001605825647,
-      "source_last_date": "2026-10-09"
+      "last_adjusted_close": 4.96999979,
+      "total_return": -0.020309678108,
+      "portfolio_contribution": -0.002624904037,
+      "source_last_date": "2026-10-13"
     },
     {
       "ticker": "BBSE3",
       "weight": 0.068918,
       "start_adjusted_close": 31.66158485,
-      "last_adjusted_close": 40.81999969,
-      "total_return": 0.289259520106,
-      "portfolio_contribution": 0.019935187607,
-      "source_last_date": "2026-10-09"
+      "last_adjusted_close": 41.18000031,
+      "total_return": 0.300629785114,
+      "portfolio_contribution": 0.02071880353,
+      "source_last_date": "2026-10-13"
     },
     {
       "ticker": "LEVE3",
       "weight": 0.024588,
       "start_adjusted_close": 31.55266953,
-      "last_adjusted_close": 37.52000046,
-      "total_return": 0.189122854656,
-      "portfolio_contribution": 0.00465015275,
-      "source_last_date": "2026-10-09"
+      "last_adjusted_close": 36.70000076,
+      "total_return": 0.163134571979,
+      "portfolio_contribution": 0.004011152856,
+      "source_last_date": "2026-10-13"
     },
     {
       "ticker": "IVVB11",
       "weight": 0.15,
       "start_adjusted_close": 419.5,
-      "last_adjusted_close": 439.25,
-      "total_return": 0.047079856973,
-      "portfolio_contribution": 0.007061978546,
-      "source_last_date": "2026-10-09"
+      "last_adjusted_close": 442.45001221,
+      "total_return": 0.054708014796,
+      "portfolio_contribution": 0.008206202219,
+      "source_last_date": "2026-10-13"
     }
   ],
   "cdi_weight": 0.25,
   "summary": {
-    "portfolio_return": 0.065506646,
-    "benevente2_reconstructed_return": 0.0545079391,
-    "portfolio_value_brl": 106550.66,
-    "equity_sleeve_return": 0.05121273846,
-    "cdi_return": 0.1083883686,
-    "bova11_return": 0.306240482,
-    "ibovespa_price_return": 0.3022816886,
+    "portfolio_return": 0.0565725252,
+    "benevente2_reconstructed_return": 0.0472306802,
+    "portfolio_value_brl": 105657.25,
+    "equity_sleeve_return": 0.039112934617,
+    "cdi_return": 0.1089512969,
+    "bova11_return": 0.293848534,
+    "ibovespa_price_return": 0.2887086627,
     "maximum_drawdown": -0.13514370695,
     "benevente2_maximum_drawdown": -0.130970701282
   },
@@ -379,8 +379,8 @@
     },
     {
       "date": "2026-01-05",
-      "portfolio": 100.66201538,
-      "domestic": 60.6510927,
+      "portfolio": 100.66201428,
+      "domestic": 60.65109159,
       "global": 14.99713993,
       "cdi": 100.055131,
       "bova11": 100.73716552,
@@ -390,7 +390,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.66201538,
+      "benevente2": 100.66201427,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
@@ -413,8 +413,8 @@
     },
     {
       "date": "2026-01-07",
-      "portfolio": 99.61445645,
-      "domestic": 59.58381202,
+      "portfolio": 99.61445755,
+      "domestic": 59.58381312,
       "global": 14.98927338,
       "cdi": 100.1654842,
       "bova11": 100.91510068,
@@ -424,14 +424,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 99.61445645,
+      "benevente2": 99.61445755,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-08",
-      "portfolio": 99.83503805,
-      "domestic": 59.79523662,
+      "portfolio": 99.83503915,
+      "domestic": 59.79523773,
       "global": 14.98462481,
       "cdi": 100.22070643,
       "bova11": 101.42349103,
@@ -441,7 +441,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 99.83503804,
+      "benevente2": 99.83503915,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
@@ -532,8 +532,8 @@
     },
     {
       "date": "2026-01-16",
-      "portfolio": 97.58078542,
-      "domestic": 57.45513059,
+      "portfolio": 97.58078652,
+      "domestic": 57.4551317,
       "global": 14.98748488,
       "cdi": 100.55267975,
       "bova11": 102.67539826,
@@ -543,7 +543,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 97.58078541,
+      "benevente2": 97.58078652,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
@@ -566,8 +566,8 @@
     },
     {
       "date": "2026-01-20",
-      "portfolio": 97.63528163,
-      "domestic": 57.75472629,
+      "portfolio": 97.63528274,
+      "domestic": 57.75472739,
       "global": 14.71465992,
       "cdi": 100.66358171,
       "bova11": 103.53329788,
@@ -577,14 +577,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 97.63528164,
+      "benevente2": 97.63528274,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-21",
-      "portfolio": 99.67108688,
-      "domestic": 59.78094798,
+      "portfolio": 99.67108578,
+      "domestic": 59.78094687,
       "global": 14.71036927,
       "cdi": 100.71907855,
       "bova11": 107.36527472,
@@ -594,7 +594,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 99.67108689,
+      "benevente2": 99.67108578,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
@@ -651,8 +651,8 @@
     },
     {
       "date": "2026-01-27",
-      "portfolio": 101.74758243,
-      "domestic": 61.95920008,
+      "portfolio": 101.74758463,
+      "domestic": 61.95920229,
       "global": 14.55303933,
       "cdi": 100.94137204,
       "bova11": 113.26257946,
@@ -662,7 +662,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.74758242,
+      "benevente2": 101.74758463,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
@@ -702,8 +702,8 @@
     },
     {
       "date": "2026-01-30",
-      "portfolio": 101.06522531,
-      "domestic": 61.10457017,
+      "portfolio": 101.06522751,
+      "domestic": 61.10457237,
       "global": 14.68355163,
       "cdi": 101.10841406,
       "bova11": 113.24351567,
@@ -713,14 +713,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.06522531,
+      "benevente2": 101.06522751,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-02",
-      "portfolio": 102.84300927,
-      "domestic": 62.81299483,
+      "portfolio": 102.84301148,
+      "domestic": 62.81299704,
       "global": 14.73897541,
       "cdi": 101.16415614,
       "bova11": 113.87900118,
@@ -730,14 +730,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.84300927,
+      "benevente2": 102.84301148,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-03",
-      "portfolio": 103.36184929,
-      "domestic": 63.47343418,
+      "portfolio": 103.3618515,
+      "domestic": 63.47343638,
       "global": 14.58343288,
       "cdi": 101.21992895,
       "bova11": 115.77910634,
@@ -747,7 +747,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.3618493,
+      "benevente2": 103.3618515,
       "benevente2_equity_weight": 0.6,
       "overlay_turnover": 0.0
     },
@@ -3657,6 +3657,23 @@
       "benevente2": 105.45079391,
       "benevente2_equity_weight": 0.51,
       "overlay_turnover": 0.0
+    },
+    {
+      "date": "2026-10-13",
+      "portfolio": 105.65725252,
+      "domestic": 62.11284987,
+      "global": 15.82062022,
+      "cdi": 110.89512969,
+      "bova11": 129.3848534,
+      "ibovespa_price": 128.87086627,
+      "market_drawdown": -0.010422496161,
+      "market_volatility": 0.305213705905,
+      "risk_state": 1,
+      "stress_at_close": 1,
+      "tradable_stress": 1,
+      "benevente2": 104.72306802,
+      "benevente2_equity_weight": 0.51,
+      "overlay_turnover": 0.0
     }
   ],
   "sources": {
@@ -3664,27 +3681,70 @@
     "ibovespa": "Yahoo Finance Chart API (^BVSP), índice de preço",
     "cdi": "Banco Central do Brasil, SGS série 12",
     "raw_response_sha256": {
-      "BBSE3.SA": "a52346e736eacf7ba7c4d74d575e0a158def5b80699af7127ba9a87acce4fa25",
-      "BCB_SGS_12": "db531670267eeedc72b7761c2bd4a0ead847d2189079a09555a718f32caa9868",
-      "BOVA11.SA": "2723a609f338ce05b84cc361826daba56483a96bb94295a916a950171e149067",
-      "CMIN3.SA": "2d29228f87a1d415b0e26b25035ddc69f57a4075eb2c83cfe6d57ffc01369969",
-      "CURY3.SA": "9f9d202e373b33f82520700eae98ada035808179d98516b59d2413a0efebd4ed",
-      "IVVB11.SA": "1ddf0675ad465e64f2166673be8c4071b595be319171421a5e45b152d029a18e",
-      "LEVE3.SA": "49b35cafa75f94ee11f738744e3df23edc3f8bf13a486c01bc6534d1e09b87a3",
-      "VIVA3.SA": "be46492648169c525b677e0b342eaa5094d4c33c156d7ab45ea4433b07b86169",
-      "^BVSP": "6aab989f09eca75e057f499d4fdb9ec791025dd50f8f4a82dc8f6898d4dd0c78"
+      "BBSE3.SA": "dda0b539c688a22f7eef3e6e97af9cd9ecb10c776e94db48e75b849896a20682",
+      "BCB_SGS_12": "a2764055f42dc9e46ecbac5918d4cde301fac9b9bdaf08b13672a24da578a2a3",
+      "BOVA11.SA": "bbedb31e866545a545d71b262fb907df6876a6e52416c97a5ff09a4dda24dd69",
+      "CMIN3.SA": "f38300d7c31b950c190913ab7ee005dff4d48fc5e19429e0007bd3c2efbc199b",
+      "CURY3.SA": "df54c24858ad6c540dab643cd1fcc8a0603dc8bcba46b5407e5539dbb9081cb9",
+      "IVVB11.SA": "44dedcecb651684d07b9266f26bc602b87db7c5b87cf26c7fd90a8d81576b481",
+      "LEVE3.SA": "2f7ae06f1d8a0b0c0ade48a9cbde034e747e6cd8ae6a3d3f68a22d557937a315",
+      "VIVA3.SA": "08242140d71011dba9513b836a891343cff873611f851bab5521d2a9462f2f5d",
+      "^BVSP": "cac01a8ca9a0eecf2cfff7c397778d6f7abd2250d570217ab70c4a879c4e5363"
     }
   },
   "data_quality": {
     "provisional": true,
     "corporate_actions": "O fechamento ajustado incorpora os ajustes publicados pelo provedor secundário. A conciliação integral com eventos B3/CVM ainda não foi concluída.",
-    "missing_tickers": [],
-    "dropped_sessions": 0,
+    "missing_tickers": [
+      {
+        "ticker": "BBSE3",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      },
+      {
+        "ticker": "BOVA11",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      },
+      {
+        "ticker": "CMIN3",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      },
+      {
+        "ticker": "CURY3",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      },
+      {
+        "ticker": "IVVB11",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      },
+      {
+        "ticker": "LEVE3",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      },
+      {
+        "ticker": "VIVA3",
+        "missing_sessions": 1,
+        "first": "2026-10-14",
+        "last": "2026-10-14"
+      }
+    ],
+    "dropped_sessions": 1,
     "dropped_sessions_note": "Pregões em que algum papel não tinha preço na fonte e que por isso saíram da série inteira. Zero é o esperado; qualquer outro número é buraco no dado, não no mercado.",
     "interpretation": "Marcação a mercado do que a política vigente teria montado em 02/01/2026 com os dados daquele dia. As séries de 2026 foram reconstruídas em agosto de 2026 e publicadas a partir de 26/08/2026; não são validação prospectiva. A primeira amostra confirmatória começa no primeiro pregão de 2027."
   },
-  "content_sha256": "308b07768591f15d5632c13cc78a1936a783ecfe22adc4a29842a0a6335e3535",
-  "updated_at_utc": "2026-10-13T09:18:58+00:00",
-  "previous_record_sha256": "2cff0958b9832620469d6e07bd4bf193ac531e51029110ea132b31fc77fc9768",
-  "record_sha256": "5dfa0de345a5fcd01871f5d9d4b7e3d5b357dd70d803ad341723a3a0d0dd7979"
+  "content_sha256": "bfdc0755a394ac1cfb09aff428baf5a5f98d1bfcd50fa755e091741f96938bc7",
+  "updated_at_utc": "2026-10-15T07:19:52+00:00",
+  "previous_record_sha256": "5dfa0de345a5fcd01871f5d9d4b7e3d5b357dd70d803ad341723a3a0d0dd7979",
+  "record_sha256": "0f9f1c2d9e32dc1b56afd1409b6324c6bf02368f7bc2b910f6f243dc07dae09e"
 }
