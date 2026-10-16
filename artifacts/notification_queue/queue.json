@@ -967,6 +967,24 @@
       "previous_record_sha256": "84351db0f5e65ddac1b3ba657f08087d6e5b4e13e3e38530e2888fa94a3afd76",
       "state": "queued_dry_run",
       "record_sha256": "4b1c604ee30e2d22455afc30134a54e74b5b27916ba55b259fb77ac5cf900bfc"
+    },
+    {
+      "key": "radar:2026-10-15:58",
+      "template": "radar_revisao",
+      "category": "utilitaria",
+      "variables": {
+        "quantidade": "58",
+        "tickers": "B3SA3, BBSE3, BPAC11, CMIN3, CSNA3, DESK3, ECOR3, ITUB4, JBSS3, ONCO3, PETR4, PSSA3, RDOR3, RSID3, TEND3, TFCO4, XPBR31",
+        "data": "15/10/2026"
+      },
+      "preview": "Benevente · radar: 58 item(ns) sobre B3SA3, BBSE3, BPAC11, CMIN3, CSNA3, DESK3, ECOR3, ITUB4, JBSS3, ONCO3, PETR4, PSSA3, RDOR3, RSID3, TEND3, TFCO4, XPBR31 marcado(s) para revisão humana em 15/10/2026. O radar não altera pesos e não participa do sinal de proteção.",
+      "source": {
+        "file": "event_radar.json",
+        "sha256": "3b85fc1c16c0db6687aea81cbbbbbaddbce9d665015b1e6b117e4a6f883c8c97"
+      },
+      "previous_record_sha256": "4b1c604ee30e2d22455afc30134a54e74b5b27916ba55b259fb77ac5cf900bfc",
+      "state": "queued_dry_run",
+      "record_sha256": "9bfea653ccaf2cf9b2082365ac54c55cffa76d26f2e53d0b739ae495fb5d145a"
     }
   ]
 }
