@@ -8,7 +8,7 @@
   "protocol_registered_at": "2026-09-02",
   "protocol_sha256": "763fd1c5487858ac580cd021b5c52abe35e4b04a0012b6a36516b19fba626b53",
   "benevente2_protocol_sha256": "d1f37a440f24421e0df32f304ee0683c6de04ed9417d0cb014a0bfc7309e80e4",
-  "through": "2026-10-21",
+  "through": "2026-10-22",
   "currency": "BRL",
   "initial_capital_brl": 100000.0,
   "price_basis": "fechamento_ajustado_fonte_publica_secundaria",
@@ -17,129 +17,129 @@
       "ticker": "CURY3",
       "weight": 0.00496,
       "start_adjusted_close": 29.99482155,
-      "last_adjusted_close": 32.36000061,
-      "total_return": 0.078852913263,
-      "portfolio_contribution": 0.00039111045,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 31.97999954,
+      "total_return": 0.066184024151,
+      "portfolio_contribution": 0.00032827276,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "VIVA3",
       "weight": 0.00496,
       "start_adjusted_close": 32.25999832,
-      "last_adjusted_close": 27.28000069,
-      "total_return": -0.154370672473,
-      "portfolio_contribution": -0.000765678535,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 27.09000015,
+      "total_return": -0.160260335956,
+      "portfolio_contribution": -0.000794891266,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "CMIN3",
       "weight": 0.00496,
       "start_adjusted_close": 5.07303143,
-      "last_adjusted_close": 4.96000004,
-      "total_return": -0.022280837205,
-      "portfolio_contribution": -0.000110512953,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 4.94000006,
+      "total_return": -0.026223249394,
+      "portfolio_contribution": -0.000130067317,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "BBSE3",
       "weight": 0.004448,
       "start_adjusted_close": 31.66158485,
-      "last_adjusted_close": 42.45999908,
-      "total_return": 0.341057286933,
-      "portfolio_contribution": 0.001517022812,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 43.33000183,
+      "total_return": 0.368535467529,
+      "portfolio_contribution": 0.00163924576,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "LEVE3",
       "weight": 0.002564,
       "start_adjusted_close": 31.55266953,
-      "last_adjusted_close": 38.40999985,
-      "total_return": 0.217329640422,
-      "portfolio_contribution": 0.000557233198,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 37.59999847,
+      "total_return": 0.191658234944,
+      "portfolio_contribution": 0.000491411714,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "PLPL3",
       "weight": 0.001929,
       "start_adjusted_close": 13.06000042,
-      "last_adjusted_close": 8.06000042,
-      "total_return": -0.382848379736,
-      "portfolio_contribution": -0.000738514525,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 7.94999981,
+      "total_return": -0.391271090824,
+      "portfolio_contribution": -0.000754761934,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "COGN3",
       "weight": 0.001751,
       "start_adjusted_close": 3.11467505,
-      "last_adjusted_close": 3.01999998,
-      "total_return": -0.030396449941,
-      "portfolio_contribution": -5.3224184e-05,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 3.00999999,
+      "total_return": -0.033607054681,
+      "portfolio_contribution": -5.8845953e-05,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "TEND3",
       "weight": 0.001582,
       "start_adjusted_close": 22.7866993,
-      "last_adjusted_close": 28.60000038,
-      "total_return": 0.255118172718,
-      "portfolio_contribution": 0.000403596949,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 28.79000092,
+      "total_return": 0.263456393695,
+      "portfolio_contribution": 0.000416788015,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "TFCO4",
       "weight": 0.001458,
       "start_adjusted_close": 15.76095486,
-      "last_adjusted_close": 14.68000031,
-      "total_return": -0.068584331439,
-      "portfolio_contribution": -9.9995955e-05,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 14.5,
+      "total_return": -0.080004978653,
+      "portfolio_contribution": -0.000116647259,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "ECOR3",
       "weight": 0.001173,
       "start_adjusted_close": 10.13022327,
-      "last_adjusted_close": 13.32999992,
-      "total_return": 0.315864375627,
-      "portfolio_contribution": 0.000370508913,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 12.72000027,
+      "total_return": 0.255648560026,
+      "portfolio_contribution": 0.000299875761,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "RDOR3",
       "weight": 0.00117,
       "start_adjusted_close": 39.89227295,
-      "last_adjusted_close": 43.70999908,
-      "total_return": 0.095700892755,
-      "portfolio_contribution": 0.000111970045,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 44.02999878,
+      "total_return": 0.103722488697,
+      "portfolio_contribution": 0.000121355312,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "B3SA3",
       "weight": 0.001045,
       "start_adjusted_close": 13.0168438,
-      "last_adjusted_close": 23.51000023,
-      "total_return": 0.806121406828,
-      "portfolio_contribution": 0.00084239687,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 23.25,
+      "total_return": 0.786147269244,
+      "portfolio_contribution": 0.000821523896,
+      "source_last_date": "2026-10-22"
     },
     {
       "ticker": "IVVB11",
       "weight": 0.008,
       "start_adjusted_close": 419.5,
-      "last_adjusted_close": 440.5,
-      "total_return": 0.050059594756,
-      "portfolio_contribution": 0.000400476758,
-      "source_last_date": "2026-10-21"
+      "last_adjusted_close": 436.54998779,
+      "total_return": 0.040643594262,
+      "portfolio_contribution": 0.000325148754,
+      "source_last_date": "2026-10-22"
     }
   ],
   "cdi_weight": 0.96,
   "summary": {
-    "portfolio_return": 0.1106678704,
-    "benevente2_reconstructed_return": 0.1099245835,
-    "portfolio_value_brl": 111066.79,
-    "equity_sleeve_return": 0.070659746077,
-    "cdi_return": 0.1123348756,
-    "bova11_return": 0.2932130097,
-    "ibovespa_price_return": 0.2862606594,
+    "portfolio_return": 0.1109722242,
+    "benevente2_reconstructed_return": 0.1103097412,
+    "portfolio_value_brl": 111097.22,
+    "equity_sleeve_return": 0.064710206064,
+    "cdi_return": 0.1128998082,
+    "bova11_return": 0.2770717205,
+    "ibovespa_price_return": 0.2714667464,
     "maximum_drawdown": -0.000681777409,
     "benevente2_maximum_drawdown": -0.000681777409
   },
@@ -631,8 +631,8 @@
     },
     {
       "date": "2026-01-05",
-      "portfolio": 100.11115922,
-      "domestic": 3.258386,
+      "portfolio": 100.1111592,
+      "domestic": 3.25838598,
       "global": 0.79984746,
       "cdi": 100.055131,
       "bova11": 100.73716552,
@@ -642,14 +642,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.11115922,
+      "benevente2": 100.1111592,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-06",
-      "portfolio": 100.19455589,
-      "domestic": 3.28867519,
+      "portfolio": 100.19455591,
+      "domestic": 3.28867521,
       "global": 0.8,
       "cdi": 100.11029239,
       "bova11": 101.80477652,
@@ -659,14 +659,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.19455588,
+      "benevente2": 100.1945559,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-07",
-      "portfolio": 100.22460802,
-      "domestic": 3.26631527,
+      "portfolio": 100.22460803,
+      "domestic": 3.26631528,
       "global": 0.79942791,
       "cdi": 100.1654842,
       "bova11": 100.91510068,
@@ -676,14 +676,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.22460801,
+      "benevente2": 100.22460802,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-08",
-      "portfolio": 100.28558755,
-      "domestic": 3.27452938,
+      "portfolio": 100.28558762,
+      "domestic": 3.27452945,
       "global": 0.79917999,
       "cdi": 100.22070643,
       "bova11": 101.42349103,
@@ -693,7 +693,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.28558754,
+      "benevente2": 100.28558761,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -716,8 +716,8 @@
     },
     {
       "date": "2026-01-12",
-      "portfolio": 100.40745855,
-      "domestic": 3.28500354,
+      "portfolio": 100.40745851,
+      "domestic": 3.2850035,
       "global": 0.80446245,
       "cdi": 100.33124225,
       "bova11": 101.7730003,
@@ -727,14 +727,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.40745855,
+      "benevente2": 100.40745851,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-13",
-      "portfolio": 100.40570635,
-      "domestic": 3.23251497,
+      "portfolio": 100.40570631,
+      "domestic": 3.23251493,
       "global": 0.80209775,
       "cdi": 100.38655587,
       "bova11": 101.08668449,
@@ -744,14 +744,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.40570636,
+      "benevente2": 100.40570632,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-14",
-      "portfolio": 100.49723604,
-      "domestic": 3.27268784,
+      "portfolio": 100.49723602,
+      "domestic": 3.27268782,
       "global": 0.80032422,
       "cdi": 100.44189998,
       "bova11": 103.10117238,
@@ -761,14 +761,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.49723604,
+      "benevente2": 100.49723602,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-15",
-      "portfolio": 100.50526234,
-      "domestic": 3.22835548,
+      "portfolio": 100.50526237,
+      "domestic": 3.22835551,
       "global": 0.79952324,
       "cdi": 100.4972746,
       "bova11": 103.29817134,
@@ -778,14 +778,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.50526234,
+      "benevente2": 100.50526237,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-16",
-      "portfolio": 100.52106445,
-      "domestic": 3.19115936,
+      "portfolio": 100.52106448,
+      "domestic": 3.19115939,
       "global": 0.79933253,
       "cdi": 100.55267975,
       "bova11": 102.67539826,
@@ -795,7 +795,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.52106445,
+      "benevente2": 100.52106448,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -835,8 +835,8 @@
     },
     {
       "date": "2026-01-21",
-      "portfolio": 100.79114452,
-      "domestic": 3.31627608,
+      "portfolio": 100.79114455,
+      "domestic": 3.31627612,
       "global": 0.78455303,
       "cdi": 100.71907855,
       "bova11": 107.36527472,
@@ -846,14 +846,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.79114452,
+      "benevente2": 100.79114456,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-22",
-      "portfolio": 100.93629451,
-      "domestic": 3.40804344,
+      "portfolio": 100.93629452,
+      "domestic": 3.40804345,
       "global": 0.78462933,
       "cdi": 100.77460599,
       "bova11": 109.77377022,
@@ -863,14 +863,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 100.93629452,
+      "benevente2": 100.93629453,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-23",
-      "portfolio": 101.00204076,
-      "domestic": 3.42024422,
+      "portfolio": 101.00204069,
+      "domestic": 3.42024414,
       "global": 0.78483907,
       "cdi": 100.83016404,
       "bova11": 111.6548019,
@@ -880,14 +880,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.00204077,
+      "benevente2": 101.00204069,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-26",
-      "portfolio": 101.0724623,
-      "domestic": 3.43510749,
+      "portfolio": 101.07246236,
+      "domestic": 3.43510755,
       "global": 0.7870322,
       "cdi": 100.88575271,
       "bova11": 111.40061157,
@@ -897,14 +897,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.07246229,
+      "benevente2": 101.07246235,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-27",
-      "portfolio": 101.15174891,
-      "domestic": 3.47186966,
+      "portfolio": 101.15174898,
+      "domestic": 3.47186973,
       "global": 0.7761621,
       "cdi": 100.94137204,
       "bova11": 113.26257946,
@@ -914,14 +914,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.15174892,
+      "benevente2": 101.15174899,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-01-28",
-      "portfolio": 101.25744954,
-      "domestic": 3.52324999,
+      "portfolio": 101.25744955,
+      "domestic": 3.52325,
       "global": 0.77705841,
       "cdi": 100.99702203,
       "bova11": 115.27706736,
@@ -931,7 +931,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.25744955,
+      "benevente2": 101.25744956,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -954,8 +954,8 @@
     },
     {
       "date": "2026-01-30",
-      "portfolio": 101.29852721,
-      "domestic": 3.45132696,
+      "portfolio": 101.29852728,
+      "domestic": 3.45132703,
       "global": 0.78312275,
       "cdi": 101.10841406,
       "bova11": 113.24351567,
@@ -965,14 +965,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.29852721,
+      "benevente2": 101.29852728,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-02",
-      "portfolio": 101.42144487,
-      "domestic": 3.51777629,
+      "portfolio": 101.42144491,
+      "domestic": 3.51777633,
       "global": 0.78607869,
       "cdi": 101.16415614,
       "bova11": 113.87900118,
@@ -982,14 +982,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.42144487,
+      "benevente2": 101.42144491,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-03",
-      "portfolio": 101.487617,
-      "domestic": 3.53870212,
+      "portfolio": 101.48761702,
+      "domestic": 3.53870214,
       "global": 0.77778309,
       "cdi": 101.21992895,
       "bova11": 115.77910634,
@@ -999,7 +999,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.487617,
+      "benevente2": 101.48761702,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1022,8 +1022,8 @@
     },
     {
       "date": "2026-02-05",
-      "portfolio": 101.53005539,
-      "domestic": 3.4833698,
+      "portfolio": 101.53005535,
+      "domestic": 3.48336976,
       "global": 0.76838143,
       "cdi": 101.33156683,
       "bova11": 113.52948221,
@@ -1033,14 +1033,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.53005539,
+      "benevente2": 101.53005535,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-06",
-      "portfolio": 101.61076234,
-      "domestic": 3.5036191,
+      "portfolio": 101.61076237,
+      "domestic": 3.50361913,
       "global": 0.77520858,
       "cdi": 101.38743194,
       "bova11": 113.90442603,
@@ -1050,14 +1050,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.61076234,
+      "benevente2": 101.61076237,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-09",
-      "portfolio": 101.68396269,
-      "domestic": 3.52354081,
+      "portfolio": 101.68396271,
+      "domestic": 3.52354083,
       "global": 0.77482715,
       "cdi": 101.44332784,
       "bova11": 116.16039183,
@@ -1067,14 +1067,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.68396269,
+      "benevente2": 101.68396271,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-10",
-      "portfolio": 101.74266683,
-      "domestic": 3.52960414,
+      "portfolio": 101.74266686,
+      "domestic": 3.52960417,
       "global": 0.77377831,
       "cdi": 101.49925457,
       "bova11": 115.91255287,
@@ -1084,7 +1084,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.74266684,
+      "benevente2": 101.74266687,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1107,8 +1107,8 @@
     },
     {
       "date": "2026-02-12",
-      "portfolio": 101.84265205,
-      "domestic": 3.53260992,
+      "portfolio": 101.84265211,
+      "domestic": 3.53260997,
       "global": 0.76328963,
       "cdi": 101.61120052,
       "bova11": 117.10726872,
@@ -1118,14 +1118,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.84265205,
+      "benevente2": 101.8426521,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-13",
-      "portfolio": 101.89327131,
-      "domestic": 3.52702876,
+      "portfolio": 101.89327132,
+      "domestic": 3.52702878,
       "global": 0.76571154,
       "cdi": 101.66721979,
       "bova11": 116.28113562,
@@ -1135,7 +1135,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 101.8932713,
+      "benevente2": 101.89327132,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1175,8 +1175,8 @@
     },
     {
       "date": "2026-02-20",
-      "portfolio": 102.11800007,
-      "domestic": 3.58761236,
+      "portfolio": 102.11800012,
+      "domestic": 3.5876124,
       "global": 0.76834325,
       "cdi": 101.83546298,
       "bova11": 118.63879113,
@@ -1186,14 +1186,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.11800007,
+      "benevente2": 102.11800011,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-23",
-      "portfolio": 102.11302065,
-      "domestic": 3.53836623,
+      "portfolio": 102.11302063,
+      "domestic": 3.53836622,
       "global": 0.75871276,
       "cdi": 101.89160589,
       "bova11": 117.67285044,
@@ -1203,14 +1203,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.11302064,
+      "benevente2": 102.11302063,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-24",
-      "portfolio": 102.22139969,
-      "domestic": 3.58948106,
+      "portfolio": 102.22139977,
+      "domestic": 3.58948114,
       "global": 0.76205007,
       "cdi": 101.94777975,
       "bova11": 119.331468,
@@ -1220,7 +1220,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.22139969,
+      "benevente2": 102.22139977,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1243,8 +1243,8 @@
     },
     {
       "date": "2026-02-26",
-      "portfolio": 102.32629055,
-      "domestic": 3.58658149,
+      "portfolio": 102.32629058,
+      "domestic": 3.58658152,
       "global": 0.76189748,
       "cdi": 102.0602204,
       "bova11": 119.05821389,
@@ -1254,14 +1254,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.32629055,
+      "benevente2": 102.32629058,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-02-27",
-      "portfolio": 102.3081965,
-      "domestic": 3.51975375,
+      "portfolio": 102.30819659,
+      "domestic": 3.51975384,
       "global": 0.75661502,
       "cdi": 102.11648722,
       "bova11": 117.66649907,
@@ -1271,14 +1271,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.3081965,
+      "benevente2": 102.30819659,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-02",
-      "portfolio": 102.34915382,
-      "domestic": 3.49979982,
+      "portfolio": 102.34915373,
+      "domestic": 3.49979972,
       "global": 0.76348035,
       "cdi": 102.17278506,
       "bova11": 117.88256182,
@@ -1288,7 +1288,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.34915383,
+      "benevente2": 102.34915373,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1311,8 +1311,8 @@
     },
     {
       "date": "2026-03-04",
-      "portfolio": 102.38786627,
-      "domestic": 3.42260755,
+      "portfolio": 102.38786614,
+      "domestic": 3.42260743,
       "global": 0.7712038,
       "cdi": 102.28547387,
       "bova11": 115.40417222,
@@ -1322,14 +1322,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.38786627,
+      "benevente2": 102.38786615,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-05",
-      "portfolio": 102.3373049,
-      "domestic": 3.31705263,
+      "portfolio": 102.33730491,
+      "domestic": 3.31705264,
       "global": 0.77206199,
       "cdi": 102.34186487,
       "bova11": 112.32206362,
@@ -1339,14 +1339,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.3373049,
+      "benevente2": 102.33730491,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-06",
-      "portfolio": 102.39085175,
-      "domestic": 3.32974538,
+      "portfolio": 102.39085168,
+      "domestic": 3.32974531,
       "global": 0.75875088,
       "cdi": 102.39828697,
       "bova11": 111.7755457,
@@ -1356,14 +1356,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.39085175,
+      "benevente2": 102.39085168,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-09",
-      "portfolio": 102.43366586,
-      "domestic": 3.32307479,
+      "portfolio": 102.43366583,
+      "domestic": 3.32307476,
       "global": 0.75404051,
       "cdi": 102.45474017,
       "bova11": 112.64615774,
@@ -1373,14 +1373,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.43366586,
+      "benevente2": 102.43366583,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-10",
-      "portfolio": 102.50662721,
-      "domestic": 3.34476707,
+      "portfolio": 102.50662722,
+      "domestic": 3.34476708,
       "global": 0.75108464,
       "cdi": 102.51122449,
       "bova11": 114.22852015,
@@ -1390,14 +1390,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.50662722,
+      "benevente2": 102.50662723,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-11",
       "portfolio": 102.57221436,
-      "domestic": 3.35714828,
+      "domestic": 3.35714827,
       "global": 0.75003573,
       "cdi": 102.56773995,
       "bova11": 114.52084775,
@@ -1407,14 +1407,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.57221436,
+      "benevente2": 102.57221435,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-12",
-      "portfolio": 102.50624585,
-      "domestic": 3.23565539,
+      "portfolio": 102.50624579,
+      "domestic": 3.23565533,
       "global": 0.75127535,
       "cdi": 102.62428657,
       "bova11": 111.75013054,
@@ -1424,14 +1424,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.50624585,
+      "benevente2": 102.50624579,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-13",
-      "portfolio": 102.53742223,
-      "domestic": 3.20612857,
+      "portfolio": 102.53742221,
+      "domestic": 3.20612856,
       "global": 0.75766386,
       "cdi": 102.68086437,
       "bova11": 110.92399744,
@@ -1441,14 +1441,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.53742223,
+      "benevente2": 102.53742222,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-16",
-      "portfolio": 102.61908028,
-      "domestic": 3.23792347,
+      "portfolio": 102.61908034,
+      "domestic": 3.23792354,
       "global": 0.75318238,
       "cdi": 102.73747336,
       "bova11": 112.19496846,
@@ -1458,14 +1458,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.61908028,
+      "benevente2": 102.61908035,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-17",
-      "portfolio": 102.67162873,
-      "domestic": 3.23953003,
+      "portfolio": 102.67162879,
+      "domestic": 3.23953009,
       "global": 0.74974969,
       "cdi": 102.79411355,
       "bova11": 112.37290363,
@@ -1475,7 +1475,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.67162873,
+      "benevente2": 102.67162879,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1498,8 +1498,8 @@
     },
     {
       "date": "2026-03-19",
-      "portfolio": 102.70454224,
-      "domestic": 3.17443222,
+      "portfolio": 102.70454222,
+      "domestic": 3.17443221,
       "global": 0.73977595,
       "cdi": 102.90659798,
       "bova11": 112.79867775,
@@ -1509,14 +1509,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.70454223,
+      "benevente2": 102.70454222,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-20",
-      "portfolio": 102.68773212,
-      "domestic": 3.10109479,
+      "portfolio": 102.68773207,
+      "domestic": 3.10109474,
       "global": 0.74269371,
       "cdi": 102.96244128,
       "bova11": 109.49415505,
@@ -1526,7 +1526,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 102.68773213,
+      "benevente2": 102.68773208,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1583,7 +1583,7 @@
     },
     {
       "date": "2026-03-26",
-      "portfolio": 103.01981127,
+      "portfolio": 103.01981128,
       "domestic": 3.22988681,
       "global": 0.73125151,
       "cdi": 103.18611766,
@@ -1617,8 +1617,8 @@
     },
     {
       "date": "2026-03-30",
-      "portfolio": 103.03182501,
-      "domestic": 3.15129547,
+      "portfolio": 103.03182503,
+      "domestic": 3.15129549,
       "global": 0.71431706,
       "cdi": 103.298138,
       "bova11": 113.75190602,
@@ -1628,14 +1628,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.03182501,
+      "benevente2": 103.03182503,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-03-31",
-      "portfolio": 103.19667971,
-      "domestic": 3.25169542,
+      "portfolio": 103.19667972,
+      "domestic": 3.25169543,
       "global": 0.72495827,
       "cdi": 103.35419377,
       "bova11": 117.10726872,
@@ -1645,14 +1645,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.19667971,
+      "benevente2": 103.19667972,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-01",
-      "portfolio": 103.31456439,
-      "domestic": 3.31333448,
+      "portfolio": 103.31456433,
+      "domestic": 3.31333443,
       "global": 0.72736115,
       "cdi": 103.41027996,
       "bova11": 117.04371629,
@@ -1662,7 +1662,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.31456439,
+      "benevente2": 103.31456434,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1685,8 +1685,8 @@
     },
     {
       "date": "2026-04-06",
-      "portfolio": 103.39380424,
-      "domestic": 3.28081549,
+      "portfolio": 103.39380425,
+      "domestic": 3.2808155,
       "global": 0.73134684,
       "cdi": 103.52254365,
       "bova11": 117.28520389,
@@ -1696,7 +1696,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.39380423,
+      "benevente2": 103.39380424,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1719,8 +1719,8 @@
     },
     {
       "date": "2026-04-08",
-      "portfolio": 103.58168587,
-      "domestic": 3.3486973,
+      "portfolio": 103.58168588,
+      "domestic": 3.34869731,
       "global": 0.74345651,
       "cdi": 103.63492922,
       "bova11": 120.1067611,
@@ -1730,14 +1730,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.58168586,
+      "benevente2": 103.58168587,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-09",
-      "portfolio": 103.70116637,
-      "domestic": 3.41662982,
+      "portfolio": 103.70116643,
+      "domestic": 3.41662988,
       "global": 0.74101551,
       "cdi": 103.69116776,
       "bova11": 121.82257003,
@@ -1747,14 +1747,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.70116638,
+      "benevente2": 103.70116644,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-10",
-      "portfolio": 103.71380165,
-      "domestic": 3.38262702,
+      "portfolio": 103.71380158,
+      "domestic": 3.38262694,
       "global": 0.7336353,
       "cdi": 103.7474368,
       "bova11": 123.18250863,
@@ -1764,7 +1764,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.71380165,
+      "benevente2": 103.71380157,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1787,8 +1787,8 @@
     },
     {
       "date": "2026-04-14",
-      "portfolio": 103.85178144,
-      "domestic": 3.39989591,
+      "portfolio": 103.85178138,
+      "domestic": 3.39989585,
       "global": 0.74622167,
       "cdi": 103.86006652,
       "bova11": 124.02135416,
@@ -1798,14 +1798,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.85178144,
+      "benevente2": 103.85178138,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-15",
-      "portfolio": 103.86249275,
-      "domestic": 3.34954023,
+      "portfolio": 103.86249269,
+      "domestic": 3.34954017,
       "global": 0.75318238,
       "cdi": 103.91642723,
       "bova11": 123.19522106,
@@ -1815,7 +1815,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.86249275,
+      "benevente2": 103.86249269,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1838,8 +1838,8 @@
     },
     {
       "date": "2026-04-17",
-      "portfolio": 103.978504,
-      "domestic": 3.34857385,
+      "portfolio": 103.97850399,
+      "domestic": 3.34857384,
       "global": 0.76185936,
       "cdi": 104.02924041,
       "bova11": 122.07677005,
@@ -1849,14 +1849,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.978504,
+      "benevente2": 103.97850399,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-20",
-      "portfolio": 104.03040518,
-      "domestic": 3.34895046,
+      "portfolio": 104.03040519,
+      "domestic": 3.34895047,
       "global": 0.75918952,
       "cdi": 104.08569291,
       "bova11": 122.41992796,
@@ -1866,7 +1866,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.03040517,
+      "benevente2": 104.03040518,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1889,8 +1889,8 @@
     },
     {
       "date": "2026-04-23",
-      "portfolio": 104.01633998,
-      "domestic": 3.22173601,
+      "portfolio": 104.01633997,
+      "domestic": 3.221736,
       "global": 0.76386172,
       "cdi": 104.19868985,
       "bova11": 119.38865937,
@@ -1900,7 +1900,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.01633999,
+      "benevente2": 104.01633998,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1923,8 +1923,8 @@
     },
     {
       "date": "2026-04-27",
-      "portfolio": 103.98624916,
-      "domestic": 3.08001814,
+      "portfolio": 103.98624912,
+      "domestic": 3.08001809,
       "global": 0.76689395,
       "cdi": 104.31180946,
       "bova11": 118.23843215,
@@ -1934,14 +1934,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 103.98624917,
+      "benevente2": 103.98624912,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-28",
-      "portfolio": 104.01041829,
-      "domestic": 3.05364068,
+      "portfolio": 104.01041828,
+      "domestic": 3.05364067,
       "global": 0.76309892,
       "cdi": 104.3684153,
       "bova11": 117.66649907,
@@ -1951,14 +1951,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.01041829,
+      "benevente2": 104.01041828,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-04-29",
-      "portfolio": 104.00572538,
-      "domestic": 2.99202125,
+      "portfolio": 104.00572541,
+      "domestic": 2.99202129,
       "global": 0.76565433,
       "cdi": 104.42505187,
       "bova11": 115.04194082,
@@ -1968,7 +1968,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.00572538,
+      "benevente2": 104.00572542,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -1991,8 +1991,8 @@
     },
     {
       "date": "2026-05-04",
-      "portfolio": 104.15025861,
-      "domestic": 3.02743954,
+      "portfolio": 104.15025862,
+      "domestic": 3.02743955,
       "global": 0.76767578,
       "cdi": 104.5366076,
       "bova11": 115.50584253,
@@ -2002,14 +2002,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.15025862,
+      "benevente2": 104.15025863,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-05-05",
-      "portfolio": 104.23728421,
-      "domestic": 3.06230576,
+      "portfolio": 104.23728422,
+      "domestic": 3.06230577,
       "global": 0.76624551,
       "cdi": 104.59243015,
       "bova11": 116.46543185,
@@ -2019,14 +2019,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.23728421,
+      "benevente2": 104.23728422,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-05-06",
-      "portfolio": 104.43659234,
-      "domestic": 3.19521849,
+      "portfolio": 104.4365923,
+      "domestic": 3.19521845,
       "global": 0.77902265,
       "cdi": 104.64828251,
       "bova11": 117.08820493,
@@ -2036,7 +2036,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.43659235,
+      "benevente2": 104.43659231,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -2059,8 +2059,8 @@
     },
     {
       "date": "2026-05-08",
-      "portfolio": 104.45356778,
-      "domestic": 3.10620643,
+      "portfolio": 104.45356773,
+      "domestic": 3.10620639,
       "global": 0.7776877,
       "cdi": 104.76007671,
       "bova11": 114.97838839,
@@ -2070,14 +2070,14 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.45356777,
+      "benevente2": 104.45356773,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-05-11",
-      "portfolio": 104.45492524,
-      "domestic": 3.05176194,
+      "portfolio": 104.45492525,
+      "domestic": 3.05176195,
       "global": 0.77978545,
       "cdi": 104.81601859,
       "bova11": 113.49135463,
@@ -2087,7 +2087,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 104.45492524,
+      "benevente2": 104.45492525,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -2110,8 +2110,8 @@
     },
     {
       "date": "2026-05-13",
-      "portfolio": 104.51517263,
-      "domestic": 2.9833468,
+      "portfolio": 104.51517262,
+      "domestic": 2.98334679,
       "global": 0.80095352,
       "cdi": 104.92799199,
       "bova11": 110.44102225,
@@ -2121,14 +2121,14 @@
       "risk_state": 0,
       "stress_at_close": 1,
       "tradable_stress": 0,
-      "benevente2": 104.51517263,
+      "benevente2": 104.51517262,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-05-14",
-      "portfolio": 104.60144241,
-      "domestic": 3.01315646,
+      "portfolio": 104.60144242,
+      "domestic": 3.01315648,
       "global": 0.80362335,
       "cdi": 104.98402354,
       "bova11": 111.31164399,
@@ -2138,7 +2138,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 104.58723994,
+      "benevente2": 104.58723995,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0144
     },
@@ -2172,7 +2172,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 104.63589881,
+      "benevente2": 104.6358988,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2189,7 +2189,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 104.65619919,
+      "benevente2": 104.65619918,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2206,7 +2206,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 104.79188102,
+      "benevente2": 104.79188101,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2240,14 +2240,14 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 104.87482997,
+      "benevente2": 104.87482996,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-05-25",
-      "portfolio": 104.98101089,
-      "domestic": 3.00470842,
+      "portfolio": 104.9810109,
+      "domestic": 3.00470843,
       "global": 0.81430274,
       "cdi": 105.37708305,
       "bova11": 110.8795088,
@@ -2325,14 +2325,14 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.19778562,
+      "benevente2": 105.19778561,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-06-01",
-      "portfolio": 105.22188027,
-      "domestic": 2.96954184,
+      "portfolio": 105.22188028,
+      "domestic": 2.96954185,
       "global": 0.81994754,
       "cdi": 105.65874051,
       "bova11": 107.47330609,
@@ -2359,14 +2359,14 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.30675221,
+      "benevente2": 105.3067522,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-06-03",
-      "portfolio": 105.23518092,
-      "domestic": 2.87116549,
+      "portfolio": 105.2351809,
+      "domestic": 2.87116548,
       "global": 0.82326582,
       "cdi": 105.77161418,
       "bova11": 106.30401508,
@@ -2376,7 +2376,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.29498905,
+      "benevente2": 105.29498904,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2410,7 +2410,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.38916965,
+      "benevente2": 105.38916964,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2427,7 +2427,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.47568403,
+      "benevente2": 105.47568402,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2444,14 +2444,14 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.51120638,
+      "benevente2": 105.51120637,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-06-11",
-      "portfolio": 105.59986122,
-      "domestic": 2.97769619,
+      "portfolio": 105.59986124,
+      "domestic": 2.9776962,
       "global": 0.81001192,
       "cdi": 106.05432616,
       "bova11": 107.20640334,
@@ -2478,7 +2478,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.6713673,
+      "benevente2": 105.67136729,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2495,7 +2495,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.75319056,
+      "benevente2": 105.75319055,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2518,8 +2518,8 @@
     },
     {
       "date": "2026-06-17",
-      "portfolio": 105.78999953,
-      "domestic": 2.94420137,
+      "portfolio": 105.78999952,
+      "domestic": 2.94420136,
       "global": 0.81600003,
       "cdi": 106.28103972,
       "bova11": 104.94407648,
@@ -2529,7 +2529,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.82347782,
+      "benevente2": 105.82347781,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2546,14 +2546,14 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 105.90435817,
+      "benevente2": 105.90435816,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
     {
       "date": "2026-06-19",
-      "portfolio": 105.95153992,
-      "domestic": 2.98114602,
+      "portfolio": 105.95153993,
+      "domestic": 2.98114603,
       "global": 0.83337306,
       "cdi": 106.39273003,
       "bova11": 104.93772512,
@@ -2586,8 +2586,8 @@
     },
     {
       "date": "2026-06-23",
-      "portfolio": 106.07620896,
-      "domestic": 3.01097072,
+      "portfolio": 106.07620895,
+      "domestic": 3.01097071,
       "global": 0.82088203,
       "cdi": 106.50453772,
       "bova11": 106.89502165,
@@ -2597,7 +2597,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.08250813,
+      "benevente2": 106.08250812,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2614,7 +2614,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.1626116,
+      "benevente2": 106.16261159,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2682,7 +2682,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.3919783,
+      "benevente2": 106.39197829,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2767,7 +2767,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.65275572,
+      "benevente2": 106.65275571,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2784,7 +2784,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.66937971,
+      "benevente2": 106.6693797,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2801,7 +2801,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.77165411,
+      "benevente2": 106.7716541,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2835,7 +2835,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.93839018,
+      "benevente2": 106.93839017,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2852,7 +2852,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 106.98112609,
+      "benevente2": 106.98112608,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2869,7 +2869,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.03077758,
+      "benevente2": 107.03077757,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2886,7 +2886,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.07530065,
+      "benevente2": 107.07530064,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2903,7 +2903,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.09038659,
+      "benevente2": 107.09038658,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2920,7 +2920,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.12851145,
+      "benevente2": 107.12851144,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -2971,7 +2971,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.30626115,
+      "benevente2": 107.30626114,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3022,7 +3022,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.49679811,
+      "benevente2": 107.4967981,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3073,7 +3073,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.65271314,
+      "benevente2": 107.65271313,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3141,7 +3141,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.91746264,
+      "benevente2": 107.91746263,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3175,7 +3175,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 107.994311,
+      "benevente2": 107.99431099,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3226,7 +3226,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 108.18604105,
+      "benevente2": 108.18604104,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3243,7 +3243,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 108.2226446,
+      "benevente2": 108.22264459,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3260,7 +3260,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 108.29222599,
+      "benevente2": 108.29222598,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3311,7 +3311,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 108.39728967,
+      "benevente2": 108.39728966,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3345,7 +3345,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 108.5514881,
+      "benevente2": 108.55148809,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3430,7 +3430,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 108.9021904,
+      "benevente2": 108.90219039,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3464,7 +3464,7 @@
       "risk_state": 1,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 109.08225658,
+      "benevente2": 109.08225657,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3498,7 +3498,7 @@
       "risk_state": 1,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 109.2052575,
+      "benevente2": 109.20525749,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3515,7 +3515,7 @@
       "risk_state": 1,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 109.26208774,
+      "benevente2": 109.26208773,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3583,7 +3583,7 @@
       "risk_state": 1,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 109.38630208,
+      "benevente2": 109.38630207,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3685,7 +3685,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 109.59337113,
+      "benevente2": 109.59337112,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -3719,7 +3719,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 109.61130768,
+      "benevente2": 109.61130767,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -3821,7 +3821,7 @@
       "risk_state": 0,
       "stress_at_close": 0,
       "tradable_stress": 0,
-      "benevente2": 110.09011053,
+      "benevente2": 110.09011052,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -3838,7 +3838,7 @@
       "risk_state": 0,
       "stress_at_close": 1,
       "tradable_stress": 0,
-      "benevente2": 110.33896307,
+      "benevente2": 110.33896306,
       "benevente2_equity_weight": 0.032,
       "overlay_turnover": 0.0
     },
@@ -3855,7 +3855,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.39940649,
+      "benevente2": 110.39940648,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0144
     },
@@ -3872,7 +3872,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.48934343,
+      "benevente2": 110.48934342,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3940,7 +3940,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.70097005,
+      "benevente2": 110.70097004,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3957,7 +3957,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.72022151,
+      "benevente2": 110.7202215,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3974,7 +3974,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.76076051,
+      "benevente2": 110.7607605,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -3991,7 +3991,7 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.84835547,
+      "benevente2": 110.84835546,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     },
@@ -4025,7 +4025,24 @@
       "risk_state": 1,
       "stress_at_close": 1,
       "tradable_stress": 1,
-      "benevente2": 110.99245835,
+      "benevente2": 110.99245834,
+      "benevente2_equity_weight": 0.0176,
+      "overlay_turnover": 0.0
+    },
+    {
+      "date": "2026-10-22",
+      "portfolio": 111.09722242,
+      "domestic": 3.42632595,
+      "global": 0.83251488,
+      "cdi": 111.28998082,
+      "bova11": 127.70717205,
+      "ibovespa_price": 127.14667464,
+      "market_drawdown": -0.023662270974,
+      "market_volatility": 0.316567379745,
+      "risk_state": 1,
+      "stress_at_close": 1,
+      "tradable_stress": 1,
+      "benevente2": 111.03097412,
       "benevente2_equity_weight": 0.0176,
       "overlay_turnover": 0.0
     }
@@ -4035,22 +4052,22 @@
     "ibovespa": "Yahoo Finance Chart API (^BVSP), índice de preço",
     "cdi": "Banco Central do Brasil, SGS série 12",
     "raw_response_sha256": {
-      "B3SA3.SA": "6e548f6aa3694d2077afb7fb6a2925a9483d38f6dc96fb7b1f833605bfb0137a",
-      "BBSE3.SA": "e4ae8ba357abfee99ad77065ee32d3baa105b47888c73522313b1f79fb2debda",
-      "BCB_SGS_12": "59775b91be00b89ddc01b3607f1d96150f1c0c2caf5a7c3d6bb89acc2b1fd24e",
-      "BOVA11.SA": "0369bb33833dd57821c60213573d1ae357d589218a5e547a625f4788c140d7ee",
-      "CMIN3.SA": "af9b52a4fe193462955cecbeaf44cd2cfc6451bd6b6aeaeb9410868cf2f93f52",
-      "COGN3.SA": "a1152c2fc43bdce70ba5b7597c0ef0cd1cadc80a99f6c7c2d7452f646d12390c",
-      "CURY3.SA": "218193ddd48a131ffeebbdacb0994be2e542380e710ec12d2e824fb3fc843297",
-      "ECOR3.SA": "9102a7e6823e171b7607055114683dfeb96e75c34c17a650096bc15e0ae52b19",
-      "IVVB11.SA": "ca7a8b38f1ae7e84277bfc0e0cac7f9bec34f0539d773651cb186fcff45cbc21",
-      "LEVE3.SA": "7180eb39b44245bdd1d4c4544e8b2fef1e92a1327a75935b78f41580e1447816",
-      "PLPL3.SA": "1b3d8386413d871d10b809efe4713fdc2d1a716a71408036e6d221dc6a414502",
-      "RDOR3.SA": "faef94ee59dfc212b6303cb5bf11c3ac1a58f05b02e90b3ace3d38defffdff3a",
-      "TEND3.SA": "5d3a60540b3626e6d7fc00b0b662daa9f15bdebcc095d7dcd71ed94e69ec0364",
-      "TFCO4.SA": "4c8f191dff5ea42ac362fe4818dd086dd4facffd16b0094ea1d125dd3aef02ce",
-      "VIVA3.SA": "7979e95bb54fdb6b7a0ff6ce04fd4d090ce05020b0f2b86aad4ba3bee7070675",
-      "^BVSP": "78c1f323848068b5f441b5db6f329efb80a549d7df36e68897da3f2f79b578e2"
+      "B3SA3.SA": "b829d65fe1e2a094562f1b8f15344f95dfd61f84250f7279bc2933c4e62d3994",
+      "BBSE3.SA": "59d232936fb991c544c26ffbfd9abb595f68e4989cc56a616cbb1c31c31eee1a",
+      "BCB_SGS_12": "68647e0ecd93da25975c27f1cc4f57af66873a3cabe54b8039891e772d9d5b1b",
+      "BOVA11.SA": "7e8cb400bd7cafd7f48dc6ce923fa0b73dd44e6c345ff237b232e113709c4820",
+      "CMIN3.SA": "b045904ed73af7c744f417cb773764217f2fcdc4e856a8c8f03f7f0421a402ee",
+      "COGN3.SA": "fe2894bb5de8bb658eb15708f853f2219aa5d5b5434ba54e3178830d3e4df5ed",
+      "CURY3.SA": "1967c4e1e4a4172af7a6d3f5c33524393ac761787f43c5801b2a4d71792e8dad",
+      "ECOR3.SA": "66ff8ded06cf2967a961d08634bf213d1dc805428ab9fc9c1ff35d7521e6bcf2",
+      "IVVB11.SA": "80dda1531c12de8c8ca6d693070f60c1a2e76376d1f9bebcb2f967029979054d",
+      "LEVE3.SA": "a8909603a10d31f26863614e313fcc82d3ab5d157e1373fc09310c18f66997ef",
+      "PLPL3.SA": "feba643e846348f4fc5f21ee83ebdc92cad7815f6575dd6c21110fc5d13f21c1",
+      "RDOR3.SA": "965da30229989b3a8b823f8969f64cbde5bd625e7f7a9cb9296e00e822ac6dbf",
+      "TEND3.SA": "d8af29d1c3b302d6688cffa4fdd499d69e89e177ca3e3a22f11068ac7c0e9351",
+      "TFCO4.SA": "7be2015d2eb0ca44296456dbf006a759310b4408315a20fe5913faa9d203f620",
+      "VIVA3.SA": "4bf4ee63d73844f782304f87f93802eabb8446e075df343722ea1db507567576",
+      "^BVSP": "eca621d48a63908665ab9857fb3afef3dd076b7ac6111ac1637746f9298674ed"
     }
   },
   "data_quality": {
@@ -4060,94 +4077,94 @@
       {
         "ticker": "B3SA3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "BBSE3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "BOVA11",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "CMIN3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "COGN3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "CURY3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "ECOR3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "IVVB11",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "LEVE3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "PLPL3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "RDOR3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "TEND3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "TFCO4",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       },
       {
         "ticker": "VIVA3",
         "missing_sessions": 1,
-        "first": "2026-10-22",
-        "last": "2026-10-22"
+        "first": "2026-10-23",
+        "last": "2026-10-23"
       }
     ],
     "dropped_sessions": 1,
     "dropped_sessions_note": "Pregões em que algum papel não tinha preço na fonte e que por isso saíram da série inteira. Zero é o esperado; qualquer outro número é buraco no dado, não no mercado.",
     "interpretation": "Marcação a mercado do que a política vigente teria montado em 02/01/2026 com os dados daquele dia. As séries de 2026 foram reconstruídas em agosto de 2026 e publicadas a partir de 26/08/2026; não são validação prospectiva. A primeira amostra confirmatória começa no primeiro pregão de 2027."
   },
-  "content_sha256": "037f6b58f5537446f4f29f673c1a440bc59a909c21815ed51f50b73ad7d6bf9d",
-  "updated_at_utc": "2026-10-23T07:22:42+00:00",
-  "previous_record_sha256": "3943cafa546bb0167f8d1a960b6c5b450178ea39b0aa6b07643d847744f7320e",
-  "record_sha256": "a32461c1f5b04e1f0618d803003df812341c473862aca51cde9407ede648eedf"
+  "content_sha256": "97fa3df320da17be9308f96037489596bc47b6acb7ea92668953bd7b241d5ceb",
+  "updated_at_utc": "2026-10-24T07:12:26+00:00",
+  "previous_record_sha256": "a32461c1f5b04e1f0618d803003df812341c473862aca51cde9407ede648eedf",
+  "record_sha256": "5fb01bd95ba08c73970519339d345164959c09f44c478bd64a3f95f260591166"
 }
