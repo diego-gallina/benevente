@@ -1129,6 +1129,112 @@
       "previous_record_sha256": "43957aad9a8438bc0d624285ee1b5fda8cef36973a94b4a7e9e1ef7d78c67a97",
       "state": "queued_dry_run",
       "record_sha256": "307e41b9c034c548a129e0b62dba03b4e6303bd5005319e39433cc4e4ac818f6"
+    },
+    {
+      "key": "camada:ultraconservador:2026-10-27:2",
+      "template": "camada_mudou",
+      "category": "utilitaria",
+      "variables": {
+        "perfil": "Ultraconservador",
+        "de": "alerta",
+        "para": "severo",
+        "data": "27/10/2026",
+        "exposicao_antes": "1,8%",
+        "exposicao_depois": "0,8%",
+        "motivo": "queda de alerta e volatilidade severa"
+      },
+      "preview": "Benevente · Ultraconservador: a camada de proteção passou de alerta para severo em 27/10/2026. Exposição em ações vai de 1,8% para 0,8% no próximo pregão. Motivo observado: queda de alerta e volatilidade severa. Nenhuma ordem foi transmitida — a decisão é sua.",
+      "source": {
+        "file": "live_performance_ultraconservador.json",
+        "sha256": "ac309928f3ec2b06b6733873e936cc2ef3e593827cd04fd830e961d1f02f8a41"
+      },
+      "previous_record_sha256": "307e41b9c034c548a129e0b62dba03b4e6303bd5005319e39433cc4e4ac818f6",
+      "state": "queued_dry_run",
+      "record_sha256": "843c93fe70f4a9a65e2518e6dffd7c592295b77f8ce95da25ff5ebb9244e4a5e"
+    },
+    {
+      "key": "camada:conservador:2026-10-27:2",
+      "template": "camada_mudou",
+      "category": "utilitaria",
+      "variables": {
+        "perfil": "Conservador",
+        "de": "alerta",
+        "para": "severo",
+        "data": "27/10/2026",
+        "exposicao_antes": "15,4%",
+        "exposicao_depois": "7,0%",
+        "motivo": "queda de alerta e volatilidade severa"
+      },
+      "preview": "Benevente · Conservador: a camada de proteção passou de alerta para severo em 27/10/2026. Exposição em ações vai de 15,4% para 7,0% no próximo pregão. Motivo observado: queda de alerta e volatilidade severa. Nenhuma ordem foi transmitida — a decisão é sua.",
+      "source": {
+        "file": "live_performance_conservador.json",
+        "sha256": "391990a478de3ac9baff41a85ef1a29a28546a083f6b3881e99151c77de8fa59"
+      },
+      "previous_record_sha256": "843c93fe70f4a9a65e2518e6dffd7c592295b77f8ce95da25ff5ebb9244e4a5e",
+      "state": "queued_dry_run",
+      "record_sha256": "f50c071439e5940809c2f924912e54d385b127231d6f4dad1cf04c608fa259cd"
+    },
+    {
+      "key": "camada:equilibrado:2026-10-27:2",
+      "template": "camada_mudou",
+      "category": "utilitaria",
+      "variables": {
+        "perfil": "Equilibrado",
+        "de": "alerta",
+        "para": "severo",
+        "data": "27/10/2026",
+        "exposicao_antes": "30,8%",
+        "exposicao_depois": "17,6%",
+        "motivo": "queda de alerta e volatilidade severa"
+      },
+      "preview": "Benevente · Equilibrado: a camada de proteção passou de alerta para severo em 27/10/2026. Exposição em ações vai de 30,8% para 17,6% no próximo pregão. Motivo observado: queda de alerta e volatilidade severa. Nenhuma ordem foi transmitida — a decisão é sua.",
+      "source": {
+        "file": "live_performance_equilibrado.json",
+        "sha256": "c5a9e2648ca70786a5ecc4a3640e3a2020fb8e8e092427af744c555bb9fae213"
+      },
+      "previous_record_sha256": "f50c071439e5940809c2f924912e54d385b127231d6f4dad1cf04c608fa259cd",
+      "state": "queued_dry_run",
+      "record_sha256": "e728c2b2675a464228de1157c3375fa807a64a017a128617a41ecb5ab92f5801"
+    },
+    {
+      "key": "camada:arrojado:2026-10-27:2",
+      "template": "camada_mudou",
+      "category": "utilitaria",
+      "variables": {
+        "perfil": "Arrojado",
+        "de": "alerta",
+        "para": "severo",
+        "data": "27/10/2026",
+        "exposicao_antes": "51,0%",
+        "exposicao_depois": "36,0%",
+        "motivo": "queda de alerta e volatilidade severa"
+      },
+      "preview": "Benevente · Arrojado: a camada de proteção passou de alerta para severo em 27/10/2026. Exposição em ações vai de 51,0% para 36,0% no próximo pregão. Motivo observado: queda de alerta e volatilidade severa. Nenhuma ordem foi transmitida — a decisão é sua.",
+      "source": {
+        "file": "live_performance_arrojado.json",
+        "sha256": "2014e923e9ad9fdead99c1fd84b35e4483edf440899b03aab79ee23709aecb08"
+      },
+      "previous_record_sha256": "e728c2b2675a464228de1157c3375fa807a64a017a128617a41ecb5ab92f5801",
+      "state": "queued_dry_run",
+      "record_sha256": "0a784aee3b8ad8024e0f9da7f2ec5d80e4e68275a26f0c331dced48acd2efe09"
+    },
+    {
+      "key": "radar:2026-10-28:90",
+      "template": "radar_revisao",
+      "category": "utilitaria",
+      "variables": {
+        "quantidade": "90",
+        "tickers": "B3SA3, BBAS3, BBDC4, BBSE3, BHIA3, BPAC11, CMIN3, CSNA3, CURY3, CYRE3, DESK3, DIRR3, ECOR3, EMAE4, IBOV, ITUB4, MNLT3, MNLT4, ONCO3, PDGR3, PETR4, PLPL3, PSSA3, RDOR3, RSID3, SBSP3, TEND3, VALE3, VIVA3, VLID3, XPBR31",
+        "data": "28/10/2026"
+      },
+      "preview": "Benevente · radar: 90 item(ns) sobre B3SA3, BBAS3, BBDC4, BBSE3, BHIA3, BPAC11, CMIN3, CSNA3, CURY3, CYRE3, DESK3, DIRR3, ECOR3, EMAE4, IBOV, ITUB4, MNLT3, MNLT4, ONCO3, PDGR3, PETR4, PLPL3, PSSA3, RDOR3, RSID3, SBSP3, TEND3, VALE3, VIVA3, VLID3, XPBR31 marcado(s) para revisão humana em 28/10/2026. O radar não altera pesos e não participa do sinal de proteção.",
+      "source": {
+        "file": "event_radar.json",
+        "sha256": "ebfb7f441cccdb274e6fcfbf99a580361912bdd75e2e3274c6952287ce5c9855"
+      },
+      "previous_record_sha256": "0a784aee3b8ad8024e0f9da7f2ec5d80e4e68275a26f0c331dced48acd2efe09",
+      "state": "queued_dry_run",
+      "record_sha256": "42d76ffe444cffc867f02d7377ef84bbb64ca63b3e7bf539fbbf244821915519"
     }
   ]
 }
