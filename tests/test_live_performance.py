@@ -129,7 +129,9 @@ def test_workflow_is_daily_local_time_and_does_not_use_an_llm() -> None:
     assert 'cron: "10 23 * * 1-5"' in workflow
     assert 'timezone: "America/Sao_Paulo"' in workflow
     assert "contents: write" in workflow
-    assert "diegogallina1" in workflow
+    # Commita como o robô do GitHub, e não como o Diego: o commit de rotina
+    # contava como contribuição dele todo dia.
+    assert "41898282+github-actions[bot]@users.noreply.github.com" in workflow
     assert "update_live_performance.py" in workflow
     assert "OPENAI" not in workflow.upper()
 
