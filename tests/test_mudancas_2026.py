@@ -55,7 +55,8 @@ def test_o_sinal_e_lido_antes_de_ser_executado(resumo, perfil):
 @pytest.mark.parametrize("perfil", PERFIS)
 def test_o_motivo_cita_o_limite_que_foi_cruzado(resumo, perfil):
     """"Por que mudou" tem de ser o número contra o limite declarado, não uma
-    frase genérica sobre o mercado."""
+    frase genérica sobre o mercado. Vale também para a volta ao normal: "voltou
+    abaixo dos limites" sem os números não deixa a pessoa conferir."""
     cfg = resumo["profiles"][perfil]["thresholds"]
     assert {"alert_drawdown", "alert_volatility", "recovery_days"} <= set(cfg)
     for m in resumo["profiles"][perfil]["changes"]:
@@ -130,7 +131,12 @@ def test_cada_mudanca_abre_ativo_por_ativo(resumo, perfil):
             assert abs(sum(h[lado] for h in m["holdings"]) - 1.0) < 2e-3, (perfil, lado)
         por_ativo = {h["ticker"]: h for h in m["holdings"]}
         assert por_ativo["IVVB11"]["before"] == por_ativo["IVVB11"]["after"]
-        assert por_ativo["CDI"]["after"] > por_ativo["CDI"]["before"], "o que sai vai para o CDI"
+        # Subiu o risco: o que sai das ações vai para o CDI. Voltou ao normal:
+        # o caminho é o inverso, do CDI para as ações.
+        if m["to_state"] > m["from_state"]:
+            assert por_ativo["CDI"]["after"] > por_ativo["CDI"]["before"], "o que sai vai para o CDI"
+        else:
+            assert por_ativo["CDI"]["after"] < por_ativo["CDI"]["before"], "na volta, o CDI devolve às ações"
 
 
 def test_a_pagina_mostra_a_variacao_por_ativo():

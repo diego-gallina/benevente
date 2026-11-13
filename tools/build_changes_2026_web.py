@@ -47,8 +47,10 @@ def _motivo(ponto: dict, cfg: dict) -> str:
         razoes.append(f"volatilidade de {vol * 100:.1f}%, acima do limite de alerta de "
                       f"{cfg['alert_volatility'] * 100:.0f}%")
     if not razoes:
-        return (f"queda e volatilidade voltaram abaixo dos limites e ficaram assim por "
-                f"{cfg['recovery_days']} pregões")
+        # A volta ao normal também mostra os números, contra os limites de alerta.
+        return (f"queda de {queda * 100:.1f}% e volatilidade de {vol * 100:.1f}%, abaixo dos "
+                f"limites de alerta de {cfg['alert_drawdown'] * 100:.0f}% e "
+                f"{cfg['alert_volatility'] * 100:.0f}%, por {cfg['recovery_days']} pregões")
     return " e ".join(razoes)
 
 
