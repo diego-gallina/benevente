@@ -237,8 +237,8 @@ jobs:
           guardado=$(mktemp)
           cp "$arquivo" "$guardado"
 
-          git config user.name "diegogallina1"
-          git config user.email "214411949+diegogallina1@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "$arquivo"
           git commit -m "Publica colheita de dados abertos do Open Finance [skip ci]"
           if ! git pull --rebase origin main; then

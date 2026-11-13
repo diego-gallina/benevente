@@ -125,8 +125,8 @@ jobs:
           ANO: ${{ steps.portao.outputs.ano }}
         run: |
           ramo="decisao/${ANO}"
-          git config user.name "diegogallina1"
-          git config user.email "214411949+diegogallina1@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -b "$ramo"
           git add "artifacts/insumos_${ANO}" "artifacts/profile_books_${ANO}"
           git commit -m "Decisão de janeiro de ${ANO}, para aprovação"
