@@ -1379,6 +1379,24 @@
       "previous_record_sha256": "f2edac35220a30e6cb85c33ec553b9437d1ad259cdbbcb641220c7624f02efdf",
       "state": "queued_dry_run",
       "record_sha256": "165e36416e25173b9388f419b3a03aa1b1f67733a38e11e30f1842b45f5c807c"
+    },
+    {
+      "key": "radar:2026-11-12:125",
+      "template": "radar_revisao",
+      "category": "utilitaria",
+      "variables": {
+        "quantidade": "125",
+        "tickers": "AEGEA, ALOS3, ALUP11, AXIA3, AZZA3, B3SA3, BBAS3, BBDC4, BBSE3, BEEF3, BHIA3, BIOM3, BPAC11, BRKM5, COGN3, CSNA3, CURY3, ECOR3, EMAE4, EMBR3, EQTL3, FLRY3, GGBR4, IBOV, ITUB4, KRSA3, LEVE3, MILS3, MOVI3, ONCO3, PCAR3, PETR3, PETR4, RAIZ4, RDOR3, RSID3, SAPR11, SBSP3, TEND3, USIM5, VBBR3, VIVA3",
+        "data": "12/11/2026"
+      },
+      "preview": "Benevente · radar: 125 item(ns) sobre AEGEA, ALOS3, ALUP11, AXIA3, AZZA3, B3SA3, BBAS3, BBDC4, BBSE3, BEEF3, BHIA3, BIOM3, BPAC11, BRKM5, COGN3, CSNA3, CURY3, ECOR3, EMAE4, EMBR3, EQTL3, FLRY3, GGBR4, IBOV, ITUB4, KRSA3, LEVE3, MILS3, MOVI3, ONCO3, PCAR3, PETR3, PETR4, RAIZ4, RDOR3, RSID3, SAPR11, SBSP3, TEND3, USIM5, VBBR3, VIVA3 marcado(s) para revisão humana em 12/11/2026. O radar não altera pesos e não participa do sinal de proteção.",
+      "source": {
+        "file": "event_radar.json",
+        "sha256": "1e5e731daa8dfb81475c891bbb4e93befe0a76cc5708482f007da2a9fbd92200"
+      },
+      "previous_record_sha256": "165e36416e25173b9388f419b3a03aa1b1f67733a38e11e30f1842b45f5c807c",
+      "state": "queued_dry_run",
+      "record_sha256": "4a9c6f0a80e214e28d9937f5bae1d419ae2f9d3eff66c80e83a397bb4a007a64"
     }
   ]
 }
