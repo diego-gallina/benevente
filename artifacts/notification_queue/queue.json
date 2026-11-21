@@ -1487,6 +1487,24 @@
       "previous_record_sha256": "d76eda8c1dece8e458a73a7011ba0161da96bb51a530dccb197790cf910688ab",
       "state": "queued_dry_run",
       "record_sha256": "9a0a45ba649285670d036af4020d17b61d1fa31b51c990a7435b87e278778a33"
+    },
+    {
+      "key": "radar:2026-11-20:135",
+      "template": "radar_revisao",
+      "category": "utilitaria",
+      "variables": {
+        "quantidade": "135",
+        "tickers": "AEGEA, ALPA4, B3SA3, BBAS3, BBSE3, BEEF3, BHIA3, BIOM3, BRKM5, CMIN3, COGN3, CPLE3, CPLE6, CSNA3, CURY3, CYRE3, DESK3, ECOR3, EMBR3, FASA3, FLRY3, FRAS3, GGBR4, IBOV, INBR32, JALL3, JBSS3, KRSA3, LEVE3, MILS3, NVDA, PASS3, PCAR3, RAPT4, RDNI3, RDOR3, ROXO34, RSID3, SANB11, SBSP3, TELB3, TELB4, TEND3, TFCO4, VIVA3",
+        "data": "20/11/2026"
+      },
+      "preview": "Benevente · radar: 135 item(ns) sobre AEGEA, ALPA4, B3SA3, BBAS3, BBSE3, BEEF3, BHIA3, BIOM3, BRKM5, CMIN3, COGN3, CPLE3, CPLE6, CSNA3, CURY3, CYRE3, DESK3, ECOR3, EMBR3, FASA3, FLRY3, FRAS3, GGBR4, IBOV, INBR32, JALL3, JBSS3, KRSA3, LEVE3, MILS3, NVDA, PASS3, PCAR3, RAPT4, RDNI3, RDOR3, ROXO34, RSID3, SANB11, SBSP3, TELB3, TELB4, TEND3, TFCO4, VIVA3 marcado(s) para revisão humana em 20/11/2026. O radar não altera pesos e não participa do sinal de proteção.",
+      "source": {
+        "file": "event_radar.json",
+        "sha256": "138062570be580ebbc385a7fe24e1b1194cff864837fee9e1bff4aae2adeb39b"
+      },
+      "previous_record_sha256": "9a0a45ba649285670d036af4020d17b61d1fa31b51c990a7435b87e278778a33",
+      "state": "queued_dry_run",
+      "record_sha256": "8a9a126d7830f0eec5700c44ee3b3007c903f1cbec43b5c2a0243b4115915fcf"
     }
   ]
 }
