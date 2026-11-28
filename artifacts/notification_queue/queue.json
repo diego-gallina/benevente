@@ -1577,6 +1577,24 @@
       "previous_record_sha256": "822335ef5e66beb414e07b88b2e24bed6966fc602fcf4c8514ba15a616b7da46",
       "state": "queued_dry_run",
       "record_sha256": "4b4c44e33d37db24043ba7409152f4ccb252e0e0120554a72cca9fa143f6fcac"
+    },
+    {
+      "key": "radar:2026-11-27:130",
+      "template": "radar_revisao",
+      "category": "utilitaria",
+      "variables": {
+        "quantidade": "130",
+        "tickers": "ALPA4, AMBP3, B3SA3, BBAS3, BBSE3, BEEF3, BHIA3, BRKM5, BSLI3, BSLI4, CBEE3, CMIN3, COCE5, COGN3, CPLE3, CPLE6, CSNA3, CURY3, CYRE3, DESK3, EMAE3, EMAE4, FASA3, FIQE3, FRAS3, IBOV, INBR32, JALL3, JBSS3, LEVE3, MILS3, NVDA, PASS3, PCAR3, PETR3, PETR4, RAPT4, RDNI3, RDOR3, ROXO34, SANB11, TELB3, TELB4, TEND3, TFCO4, USDBRL",
+        "data": "27/11/2026"
+      },
+      "preview": "Benevente · radar: 130 item(ns) sobre ALPA4, AMBP3, B3SA3, BBAS3, BBSE3, BEEF3, BHIA3, BRKM5, BSLI3, BSLI4, CBEE3, CMIN3, COCE5, COGN3, CPLE3, CPLE6, CSNA3, CURY3, CYRE3, DESK3, EMAE3, EMAE4, FASA3, FIQE3, FRAS3, IBOV, INBR32, JALL3, JBSS3, LEVE3, MILS3, NVDA, PASS3, PCAR3, PETR3, PETR4, RAPT4, RDNI3, RDOR3, ROXO34, SANB11, TELB3, TELB4, TEND3, TFCO4, USDBRL marcado(s) para revisão humana em 27/11/2026. O radar não altera pesos e não participa do sinal de proteção.",
+      "source": {
+        "file": "event_radar.json",
+        "sha256": "f914a3a41dcd9b793fea10aa7ef4f7b14e36c89b8b664f8e0a4c5a24843d97b8"
+      },
+      "previous_record_sha256": "4b4c44e33d37db24043ba7409152f4ccb252e0e0120554a72cca9fa143f6fcac",
+      "state": "queued_dry_run",
+      "record_sha256": "d4cf2c4a7df8983f546ffc8e6df7226dd1cffe3e3961e47148db719965e04cde"
     }
   ]
 }
